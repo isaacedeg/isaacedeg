@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋🏾, I'm Isaac Edegware</h1>
+<h1 align="center">Hello 👋🏾, I'm Isaac Edegware</h1>
 
 [Isaac Edegware](https://www.linkedin.com/in/isaac-edegware-4ab966291/) is a Full-Stack Engineer and an ambitious Data-Scientist. I am keen on developing innovative solutions to complex problems and helping solve business problems with well-constructed visualized data and machine-learning models for business-driven decisions.
 I am always eager to learn new things, to take on new challenges, and to work with others who share my passion for working on real-life projects.
